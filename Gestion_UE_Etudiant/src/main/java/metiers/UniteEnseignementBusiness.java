@@ -77,7 +77,6 @@ public class UniteEnseignementBusiness {
             return false;
         }
     }
-
     public List<UniteEnseignement> getListeUE() {
         return unitesEnseignement;
     }
